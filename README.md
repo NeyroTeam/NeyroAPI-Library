@@ -1,4 +1,3 @@
-```markdown
 # NeyroAPI Python Library
 
 This library provides a Python interface to interact with the Neyro API, supporting text, image, and audio functionalities.

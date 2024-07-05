@@ -7,12 +7,18 @@ This library provides a Python interface to interact with the Neyro API, support
 To install the library, use pip:
 
 ```bash
-pip install neyro-api
+pip install -U neyro-api
+```
+
+Or from this repository
+
+```bash
+pip install -U https://github.com/NeyroTeam/NeyroAPI-Library
 ```
 
 ## Usage
 
-### Synchronous API
+### Sync API
 
 ```python
 from neyro_api import NeyroAPI

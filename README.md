@@ -34,7 +34,7 @@ audio_response = neyro_api.audio_tts(model="google", voice="adam", text="Hello, 
 print("Audio API Response:", audio_response)
 ```
 
-### Asynchronous API
+### Async API
 
 ```python
 import asyncio

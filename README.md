@@ -5,13 +5,11 @@ This library provides a Python interface to interact with the Neyro API, support
 ## Installation
 
 To install the library, use pip:
-
 ```bash
 pip install -U neyro-api
 ```
 
-Or from this repository
-
+Or from github repository
 ```bash
 pip install -U https://github.com/NeyroTeam/NeyroAPI-Library
 ```

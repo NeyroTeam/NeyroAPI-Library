@@ -11,7 +11,7 @@ pip install -U neyro-api
 
 Or from github repository
 ```bash
-pip install -U https://github.com/NeyroTeam/NeyroAPI-Library
+pip install -U https://github.com/NeyroTeam/NeyroAPI-Library-PY
 ```
 
 ## Usage

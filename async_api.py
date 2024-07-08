@@ -1,4 +1,4 @@
-import aiohttp
+import httpx
 import json
 
 class AsyncNeyroAPI:

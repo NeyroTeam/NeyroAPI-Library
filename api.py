@@ -1,4 +1,4 @@
-import requests
+import httpx
 import json
 
 class NeyroAPI:
